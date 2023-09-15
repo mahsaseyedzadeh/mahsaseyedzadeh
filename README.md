@@ -1,4 +1,4 @@
-# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=FF3466&width=435&separator=%3C&lines=Hello%2C+Welcome+To+My+page+;)%3CI'm+Mahsa+Seyedzadeh+Front-end+Developer" alt="Typing SVG" /></a>
+# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=FF3466&width=435&separator=%3C&lines=Hello%2C+Welcome+To+My+page+;)%3CI'm+Mahsa+Seyedzadeh" alt="Typing SVG" /></a>
 I'm Mahsa, a front-end developer from Iran. I'm passionate about creating beautiful and functional web experiences, and I love working with teams to bring ideas to life. I'm always eager to learn new things and stay up-to-date with the latest technologies. Let's collaborate and build something amazing together! 💻⚡️
 
 - 💬 Ask me about **HTML5, CSS3, Bootstrap5, Tailwind, JavaScript, React, Next Js, Search Engine Optimization**
